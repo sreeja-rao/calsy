@@ -14,3 +14,5 @@ https://github.com/sreeja-rao/calsy/blob/main/simpleifelse.java
 # tennis
 
 I used if else, while, do while to create some intructions printing according to user input.
+
+https://github.com/sreeja-rao/calsy/blob/main/tennis.java
